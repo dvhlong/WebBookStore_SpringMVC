@@ -28,7 +28,7 @@ public class Giohangdao {
     	st.setString(1, kh.getMakh());
     	ResultSet rs=st.executeQuery();
     	int makh;
-    	SimpleDateFormat sdf=new SimpleDateFormat("YYYY-MM-dd hh:mm:ss");
+    	SimpleDateFormat sdf=new SimpleDateFormat("YYYY-MM-dd HH:mm:ss");
     	try {
     		if(rs.next()) { 
         		makh=rs.getInt(1);
