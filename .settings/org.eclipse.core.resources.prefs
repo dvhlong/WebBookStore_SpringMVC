@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/org/o7planning/hellospringmvc/config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/org/o7planning/hellospringmvc/controller/BanSach_Admin_Controller.java=UTF-8
+encoding//src/main/java/org/o7planning/hellospringmvc/dao/Giohangdao.java=UTF-8
+encoding//src/main/java/org/o7planning/hellospringmvc/dao/Loaidao.java=UTF-8
+encoding//src/main/java/org/o7planning/hellospringmvc/dao/Sachdao.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/menu2.jsp=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
+encoding/<project>=UTF-8
